@@ -1,0 +1,26 @@
+{
+  "version": "1.0.1",
+  "date": "2024-09-15",
+  "changes": [
+    {
+      "type": "Feature",
+      "description": "Introduced a unified bottom navigation bar across all activities for a consistent user experience."
+    },
+    {
+      "type": "Feature",
+      "description": "Implemented script management capabilities, including script injection and local script addition."
+    },
+    {
+      "type": "Feature",
+      "description": "Enhanced script handling with the addition of a delete functionality for managing scripts."
+    },
+    {
+      "type": "Feature",
+      "description": "Added comprehensive error handling and feedback for script execution processes."
+    },
+    {
+      "type": "Feature",
+      "description": "Improved app detail display with enhanced icon and name representation for better visual clarity."
+    }
+  ]
+}
